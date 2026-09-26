@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tauntonhvacco.com/sitemap.xml
